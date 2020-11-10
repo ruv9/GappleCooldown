@@ -1,0 +1,7 @@
+---
+name: GappleCooldown
+author: ruv9
+main: ruv9\GappleCooldown\GappleCooldown
+version: 2.0.0
+api: [3.0.0]
+...
